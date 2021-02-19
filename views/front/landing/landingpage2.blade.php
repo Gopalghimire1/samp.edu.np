@@ -278,7 +278,7 @@
                                                         </div>
                                                     </article>
                                                 </div> --}}
-                                                <div class="row mb-2">
+                                                <div class="row mb-2 pl-4">
                                                     <div class="col-3">
                                                         <div class="post-thumb thumb" style="max-height:75px;overflow:hidden;border-radius:5px;">
                                                             <img src="/{{ $new->photo }}" alt="" class="w-100" >
@@ -299,7 +299,7 @@
                     </div>
 
                     <div class="row mt-5">
-                        <div class="col-md-4 ">
+                        <div class="col-md-4 mb-4">
                             <div class="shadow minisection">
                                 <div class="minisection-title">
                                         Events
@@ -321,7 +321,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 ">
+                        <div class="col-md-4 mb-4">
                             <div class="shadow minisection">
                                 <div class="minisection-title">
                                         Important Links

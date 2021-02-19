@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-4 col-md-3">
-                        <div class="widget sm-text-center text-right">
+                        <div class="widget sm-text-center text-center">
                             <a href="tel:admin@gmail.com" class="font-12 text-gray text-uppercase">Call Us</a>
                             
                             
