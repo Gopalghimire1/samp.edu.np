@@ -38,6 +38,9 @@
                                         <li>
                                             <a href="/aboutus/">Know about us</a>
                                         </li>
+                                        <li>
+                                            <a href="/student/register/">Click for Admission</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
