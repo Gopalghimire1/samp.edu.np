@@ -1,0 +1,16 @@
+@if(isset($_SESSION['errorchangepass']))
+  <div>
+    {{$_SESSION['errorchangepass']}}
+  </div>
+<?php
+    unset($_SESSION['errorchangepass']);
+?>
+@endif
+@if(isset($_SESSION['successchangepass']))
+  <div>
+    {{$_SESSION['successchangepass']}}
+  </div>
+<?php
+    unset($_SESSION['successchangepass']);
+?>
+@endif

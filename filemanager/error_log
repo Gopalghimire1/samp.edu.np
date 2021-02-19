@@ -1,0 +1,10 @@
+[17-Sep-2020 17:40:07 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home5/newsfilm/samp.edu.np/filemanager/UploadHandler.php on line 496
+[17-Sep-2020 17:40:07 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home5/newsfilm/samp.edu.np/filemanager/UploadHandler.php on line 1429
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Warning:  scandir(/filemanager): failed to open dir: No such file or directory in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 617
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 617
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 620
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 629
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Notice:  Undefined variable: files_prevent_duplicate in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 1239
+[17-Sep-2020 18:03:10 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home5/newsfilm/samp.edu.np/filemanager/dialog.php on line 1239
+[22-Sep-2020 06:56:12 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home5/newsfilm/samp.edu.np/filemanager/UploadHandler.php on line 496
+[22-Sep-2020 06:56:12 Europe/Rome] PHP Notice:  Trying to access array offset on value of type null in /home5/newsfilm/samp.edu.np/filemanager/UploadHandler.php on line 1429

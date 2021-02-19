@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041544491385",
+    "firebase_url": "https://testingrcom-7a905.firebaseio.com",
+    "project_id": "testingrcom-7a905",
+    "storage_bucket": "testingrcom-7a905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041544491385:android:8da1eb36953cdd1f",
+        "android_client_info": {
+          "package_name": "shopping.akshar.com.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041544491385-ihpvsvd1n4kqumokiemspjuplforihgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTBJ-DlDY_VpHHmRrJNlvkA_RP1GZ4D4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
